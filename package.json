@@ -2,27 +2,14 @@
   "name": "horoscopo-app",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite",
-    "build": "chmod +x node_modules/.bin/vite && vite build",
-    "serve": "vite preview"
+    "build": "vite build",  
+    "dev": "vite"           
   },
   "dependencies": {
-    "vue": "^3.2.0",
-    "vite": "^4.0.0"
+    "vue": "^3.2.0"
   },
   "devDependencies": {
+    "vite": "^4.5.0",
     "@vitejs/plugin-vue": "^4.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/J0hnAr1as/horoscopo-app.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/J0hnAr1as/horoscopo-app/issues"
-  },
-  "homepage": "https://github.com/J0hnAr1as/horoscopo-app#readme",
-  "description": ""
+  }
 }
