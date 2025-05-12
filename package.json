@@ -1,17 +1,16 @@
 {
-  "name": "horoscopo-vue",
+  "name": "horoscopo-app",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.4.0"
+    "vue": "^3.2.0",
+    "vite": "^4.0.0"
   },
   "devDependencies": {
-    "vite": "^5.0.0",
-    "@vitejs/plugin-vue": "^4.6.2",
-    "vue": "^3.4.0"
+    "@vitejs/plugin-vue": "^4.0.0"
   }
 }
