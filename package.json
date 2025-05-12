@@ -13,7 +13,6 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0"
   },
-  "main": "vite.config.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/J0hnAr1as/horoscopo-app.git"
